@@ -4,4 +4,7 @@
 
 def roll
   # code goes here
+  num = rand(1..6) #1->6, including 6
 end
+
+#puts roll()
