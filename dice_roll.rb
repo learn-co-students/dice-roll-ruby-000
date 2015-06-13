@@ -5,3 +5,7 @@
 def roll
   # code goes here
 end
+
+def roll
+	return rand(1..6)
+end
