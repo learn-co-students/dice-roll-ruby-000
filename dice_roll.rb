@@ -4,4 +4,7 @@
 
 def roll
   # code goes here
+  numbers_array = [1,2,3,4,5,6]
+  dice_roll = numbers_array[rand 6]
+  return dice_roll
 end
