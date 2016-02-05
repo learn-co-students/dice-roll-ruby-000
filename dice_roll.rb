@@ -4,4 +4,6 @@
 
 def roll
   # code goes here
+  die = *(1..6)
+  die.sample
 end
